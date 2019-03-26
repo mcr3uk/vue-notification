@@ -33,9 +33,7 @@
     "front-end",
     "vue",
     "vuejs",
-    "notification",
-    "vue-notification",
-    "vue-notifications"
+    "notification"
   ],
   "devDependencies": {
     "avoriaz": "^3.2.0",
