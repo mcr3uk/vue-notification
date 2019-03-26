@@ -273,7 +273,7 @@ const Component = {
       return this.isVA
         ? null
         : {
-            transition: `all ${item.speed}ms`
+           // transition: `all ${item.speed}ms`
           }
     },
 
@@ -378,7 +378,7 @@ export default Component
   border-left-color: #42A85F;
 }
 
-.vn-fade-enter-active, .vn-fade-leave-active, .vn-fade-move  {
+.vn-fade-enter-active, .vn-fade-move  {
   transition: all .5s;
 }
 
